@@ -1,3 +1,56 @@
+# RITUALS
+
+Minimal terminal rituals for **presence, clarity, and action**  
+A suite of command-line tools that constrain attention to what matters.
+
+---
+
+## 🚀 What This Is
+
+RITUALS contains three small Python utilities:
+
+1. **STILLNESS** – a breath-on-purpose meditation practice  
+2. **UNTANGLE** – a one-sentence clarity prompt  
+3. **ONE** – a 25-minute focused work container
+
+Each tool is designed to reduce cognitive load by removing choice, metrics, and optimization loops.
+
+---
+
+## 🧠 Why It Matters
+
+Typical “productivity” apps often:
+- add complexity in the name of usefulness
+- encourage comparison and metrics
+- reward optimization over honest engagement
+
+RITUALS does the opposite:  
+**Constraint increases clarity. Silence scales. Presence is the ultimate metric.**
+
+---
+
+## 📄 Case Study (PDF)
+
+A full design and philosophy case study is included:
+
+👉 [Download the RITUALS case study (PDF)](docs/RITUALS_Portfolio_Case_Study.pdf)
+
+---
+
+## 🛠️ Try It Locally
+
+You only need Python and `rich`:
+
+```bash
+git clone https://github.com/azmosis25/rituals
+cd rituals
+pip install rich
+python rituals.py
+
+
+
+
+
 STILLNESS / ONE / UNTANGLE
 
 A small suite of terminal-based rituals.
